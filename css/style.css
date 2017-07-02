@@ -1,0 +1,133 @@
+body{
+	font-family:"Open Sans",Arial, sans-serif
+}
+.espace-bottom{
+	margin-bottom:30px;margin-top:0
+}
+hr{
+	border:1px solid #d9d9d9
+}
+a:hover{
+	text-decoration:none
+}
+nav .navbar-nav li:hover{
+	background-color:white
+}
+.navbar-default{
+	background-color:white;
+	border:none
+}
+.navbar-default .navbar-nav li a{
+	color:white
+}
+.background-nav{
+	background-color:#b5ce00
+}
+header{
+	background-color:#f2f2f2;
+	margin-bottom:30px;
+	padding:30px 0
+}
+#page{margin-bottom:30px
+	}
+.border{
+	border-right:2px solid #d9d9d9
+}
+.color1{
+	position:relative;
+	top:2px;
+	z-index:1;
+	left:10px;
+	background-color:orange;
+	padding:6px 8px;
+	color:#f2f2f2;
+	font-size:10px
+}
+
+.color2{
+	position:relative;
+	top:1px;
+	z-index:1;
+	left:10px;
+	background-color:#b5ce00;
+	padding:6px 8px;
+	color:#f2f2f2;
+	font-size:10px
+}
+
+h2{
+	font-size:27px;
+	font-weight:bold;
+	margin-top:7px
+}
+
+h2 a,h2 a:hover{
+	color:black
+}
+h3{
+	background-color:#b5ce00;
+	color:#f2f2f2;
+	font-size:13px;
+	padding:10px
+}
+time{
+	font-size:12px
+}
+
+.position-image-article{
+	position:relative;
+	bottom:20px
+}
+aside{
+	color:#818284
+}
+.container .btn-default{
+	border-radius:0;
+	background-color:#f9f9f9;
+	color:#818284
+}
+ .espace-checkbox{
+ 	padding:15px 0 0 0
+ }
+ .espace-identification{
+ 	margin:10px 0
+ }
+ label{
+ 	font-weight:lighter;
+ 	margin-bottom:15px
+ }
+
+ aside a{
+ 	color:#19232d
+ }
+ h4{
+ 	color:#1c262f;
+ 	margin-top:0;
+ 	font-size:14px;
+ 	font-weight:bold
+ }
+ aside p{
+ 	font-size:11px
+ }
+ .largeur-input{
+ 	width:100%
+ }
+ .form-horizontal  .control-label{
+ 	text-align:left
+ }
+ #inputChecked{
+ 	margin:0
+ }
+ @media (max-width: 991px) {
+
+body
+ 	{text-align:center}
+
+ 	.bordure{
+ 		border:none
+ 	}
+ 	.orange,.vert{
+ 		left:0
+ 		}
+ 	}
+
